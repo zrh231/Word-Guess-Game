@@ -1,7 +1,7 @@
 var randomWords = [
     bass = {name: "BASS"},
     pike = {name: "PIKE"},
-    tuna = {name: "tuna"},
+    tuna = {name: "TUNA"},
     carp = {name: "CARP"},
     drum = {name: "DRUM"},
 ];
