@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+}
+#hangman {
+    background-color:lightgray;
+    text-align: center;
+    font-size:300%;
+    padding: 2%;
+}
+
+#start {
+    text-align: center;
+    
+}
